@@ -1,0 +1,19 @@
+# Python virtual environment cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDE / Editor specific files
+.vscode/
+.idea/
+
+# Environment variables file (if you ever use one locally)
+.env
+
+# Colab specific checkpoints
+.ipynb_checkpoints/
+
+# Large data files (if any)
+# *.csv
+# *.pkl
